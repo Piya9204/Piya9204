@@ -61,6 +61,7 @@ Currently open to **remote roles** and **freelance projects**. If you need a dev
 |---|---|
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Piya9204&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Snake animation](https://raw.githubusercontent.com/Piya9204/Piya9204/output/github-snake-dark.svg)
 
 </div>
 
