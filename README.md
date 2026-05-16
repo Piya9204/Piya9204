@@ -5,7 +5,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Piya9204&color=6C63FF&style=flat-square&label=Profile+views)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfiya-sayyad-94b966218)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfiyasayyad0902@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alfiyasayyad0902@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-vercel-two-vert.vercel.app/)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=microsoftteams&logoColor=white)](https://www.linkedin.com/in/alfiya-sayyad-94b966218)
 
