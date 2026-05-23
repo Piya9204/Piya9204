@@ -70,7 +70,7 @@ Currently open to **remote roles** and **freelance projects**. If you need a dev
 
 ## 🚀 Projects
 
-[![Predictive Maintenance](https://github-readme-stats.vercel.app/api/pin/?username=Piya9204&repo=Pdm_system&theme=tokyonight&hide_border=true)](https://github.com/Piya9204/Pdm_system)
+[![Predictive Maintenance](https://github-readme-stats-lilac-seven-90.vercel.app/api/pin/?username=Piya9204&repo=Pdm_system&theme=tokyonight&hide_border=true)](https://github.com/Piya9204/Pdm_system)
 
 > **Stack:** Python · scikit-learn · TensorFlow · FastAPI · React
 > ML-powered system predicting equipment failures in manufacturing. Final year BE project.
