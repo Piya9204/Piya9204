@@ -57,9 +57,8 @@ Currently open to **remote roles** and **freelance projects**. If you need a dev
 
 <div align="center">
 
-| ![Alfiya's Stats](https://github-readme-stats-lilac-seven-90.vercel.app/api?username=Piya9204&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) 
-| ![Top Languages](https://github-readme-stats-lilac-seven-90.vercel.app/api/top-langs/?username=Piya9204&layout=compact&theme=tokyonight&hide_border=true) |
-|---|---|
+![Alfiya's Stats](https://github-readme-stats-lilac-seven-90.vercel.app/api?username=Piya9204&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) 
+![Top Languages](https://github-readme-stats-lilac-seven-90.vercel.app/api/top-langs/?username=Piya9204&layout=compact&theme=tokyonight&hide_border=true) 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Piya9204&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
