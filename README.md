@@ -57,7 +57,7 @@ Currently open to **remote roles** and **freelance projects**. If you need a dev
 
 <div align="center">
 
-![Alfiya's Stats](https://github-readme-stats-yourname.vercel.app/api?username=Piya9204&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Alfiya's Stats]([https://github-readme-stats-yourname.vercel.app/api?username=Piya9204&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true](https://github-readme-stats-piya9204.vercel.app/api?username=Piya9204&...))
 
 ![Top Languages](https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=Piya9204&layout=compact&theme=tokyonight&hide_border=true)
 
