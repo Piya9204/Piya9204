@@ -57,9 +57,10 @@ Currently open to **remote roles** and **freelance projects**. If you need a dev
 
 <div align="center">
 
-![Alfiya's Stats]([https://github-readme-stats-yourname.vercel.app/api?username=Piya9204&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true](https://github-readme-stats-piya9204.vercel.app/api?username=Piya9204&...))
+| ![Alfiya's Stats](https://github-readme-stats-lilac-seven-90.vercel.app/api?username=Piya9204&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) 
+| ![Top Languages](https://github-readme-stats-lilac-seven-90.vercel.app/api/top-langs/?username=Piya9204&layout=compact&theme=tokyonight&hide_border=true) |
+|---|---|
 
-![Top Languages](https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=Piya9204&layout=compact&theme=tokyonight&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Piya9204&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![Snake animation](https://raw.githubusercontent.com/Piya9204/Piya9204/output/github-snake-dark.svg)
